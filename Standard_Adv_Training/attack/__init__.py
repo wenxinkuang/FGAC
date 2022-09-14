@@ -1,0 +1,3 @@
+from .reg_attack import FastGradientSignUntargeted as FGSM_REG
+from .reg_attack_fullloss import FastGradientSignUntargeted as FGSM_REG_fullloss
+from .reg_attack_for_resnet18 import FastGradientSignUntargeted as FGSM_REG_for_resnet18
