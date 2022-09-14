@@ -3,8 +3,11 @@
 
 
 ## Requirements
+
 Python = 3.6.9
+
 Pytorch = 1.10.1 + cu113
+
 CUDA = 9.1
 
 
